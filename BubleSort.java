@@ -1,7 +1,7 @@
-package SýralamaAlgoritmalari;
+package SÃ½ralamaAlgoritmalari;
 
 import java.util.Random;
-// Muhammet Feyzi Saðlam
+// Muhammet Feyzi Saglam
 
 // our aim is to sort the random numbers with bubble sort
 // The logic of the bubble sort is based on the order of the elements from small to small.
